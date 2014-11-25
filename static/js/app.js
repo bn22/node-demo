@@ -1,4 +1,5 @@
 /*
+    install node.js
     app.js
     code for our demo application
  */
